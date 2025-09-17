@@ -55,6 +55,7 @@ nav a:hover {
   background-color: #ddd;
   color: black;
   transform: none;
+  border-radius: 30px;
 }
 
 nav a.active {
@@ -470,3 +471,4 @@ section:hover {
   box-shadow: 0 15px 40px rgba(0, 0, 0, 0.15);
   transition: all 0.3s ease;
 }
+
